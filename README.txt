@@ -1,0 +1,3 @@
+Le projet que nous avons réalisés consiste à trier (selon la requête de l'utilisateur) un tableau afin de retrouver des informations voulues.
+Ici, les informations sont triées en sorte de chercher un groupe particulier et de voir les dates de premiers cours, derniers cours et dates de DS/DSTP du groupe choisi.
+Lors de l'exécution du programme, un fichier calendrier se verra créé afin de donner l'information choisie par l'utilisateur
